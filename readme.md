@@ -3,3 +3,10 @@
 # This Project is for the Udacity React Program and will only be used for this purpose.
 @author: Christopher Krawietz
 @react_udacity Projekt
+
+# Important files and API i need:
+#
+#
+#
+#
+#
